@@ -1,1 +1,28 @@
 /* write your override styles here */
+div .tag-1{
+    color: purple;
+}
+div #tag-3 {
+color: blue;
+}
+div #tag-7{
+    font-size: 20px;
+}
+div #wall {
+    color: greenyellow;
+    width: auto;
+}
+div #tag-2{
+    color: purple;
+}
+div .parent {
+color: purple;
+}
+div #tag-7{
+    font-size: 20px;
+}
+div .slick {
+    color: greenyellow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
